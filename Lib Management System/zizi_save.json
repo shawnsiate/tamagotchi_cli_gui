@@ -1,0 +1,11 @@
+{
+  "name": "Zizi",
+  "hunger": 32,
+  "happiness": 76,
+  "energy": 52,
+  "health": 95,
+  "age_ticks": 7,
+  "clean": 54,
+  "alive": true,
+  "saved_at": "2025-12-13T11:15:05.479157"
+}

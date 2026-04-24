@@ -1,0 +1,11 @@
+{
+  "name": "zael",
+  "hunger": 26,
+  "happiness": 77,
+  "energy": 56,
+  "health": 95,
+  "age_ticks": 6,
+  "clean": 57,
+  "alive": true,
+  "saved_at": "2025-12-19T23:06:56.140145"
+}
